@@ -2,7 +2,7 @@
 
 *AngularJS Richtlinien für Teams erstellt von [@john_papa](//twitter.com/john_papa)*
 
-Wenn du nach Syntaxleitlinien, Konventionen und Hinweisen zur Strukturierung von AngularJS Anwendungen suchst, bist du hier genau richtig. Die aufgeführten Richtlinen basieren auf meinen Erfahrungen bei der Entwicklung mit [AngularJS](//angularjs.org), Präsentationen, meinem [Pluralsight Kurs courses](http://pluralsight.com/training/Authors/Details/john-papa) und meiner Arbeit in Teams. 
+Wenn du nach Syntaxleitlinien, Konventionen und Hinweisen zur Strukturierung von AngularJS Anwendungen suchst, bist du hier genau richtig. Die aufgeführten Richtlinen basieren auf meinen Erfahrungen bei der Entwicklung mit [AngularJS](//angularjs.org), Präsentationen, meinem [Pluralsight Kurs](http://pluralsight.com/training/Authors/Details/john-papa) und meiner Arbeit in Teams. 
 
 The purpose of this style guide is to provide guidance on building AngularJS applications by showing the conventions I use and, more importantly, why I choose them. 
 

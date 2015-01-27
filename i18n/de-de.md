@@ -1,8 +1,8 @@
 # AngularJS Style Guide
 
-*Opinionated AngularJS style guide for teams by [@john_papa](//twitter.com/john_papa)*
+*AngularJS Richtlinien für Teams erstellt von [@john_papa](//twitter.com/john_papa)*
 
-If you are looking for an opinionated style guide for syntax, conventions, and structuring AngularJS applications, then step right in. These styles are based on my development experience with [AngularJS](//angularjs.org), presentations, [Pluralsight training courses](http://pluralsight.com/training/Authors/Details/john-papa) and working in teams. 
+Wenn du nach Syntaxleitlinien, Konventionen und Hinweisen zur Strukturierung von AngularJS Anwendungen suchst, bist du hier genau richtig. Die aufgeführten Richtlinen basieren auf meinen Erfahrungen bei der Entwicklung mit [AngularJS](//angularjs.org), Präsentationen, meinem [Pluralsight Kurs courses](http://pluralsight.com/training/Authors/Details/john-papa) und meiner Arbeit in Teams. 
 
 The purpose of this style guide is to provide guidance on building AngularJS applications by showing the conventions I use and, more importantly, why I choose them. 
 
